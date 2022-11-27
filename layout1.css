@@ -105,7 +105,7 @@ body {
 }
 /*主页-第一部分*/
 #homepage {
-	background-image: url(images/background_Homepage.png);
+	background-image: url(Images/background_Homepage.png);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	height: 1100px;
@@ -140,7 +140,7 @@ body {
 #introduction {
 	font-family: "微软雅黑";
 	line-height: 208px;
-	background-image: url(images/decoration_Transition.png);
+	background-image: url(Images/decoration_Transition.png);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	text-align: center;
@@ -228,7 +228,7 @@ table {
 	color: #999;
 	font-size: 70px;
 	
-	background-image: url(images/decoration_Chameleon01.png);
+	background-image: url(Images/decoration_Chameleon01.png);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	
@@ -301,7 +301,7 @@ table {
 	text-align: center;
 	color: #063;
 	font-size: 70px;
-	background-image: url(images/contact_us.png);
+	background-image: url(Images/contact_us.png);
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	height: 900px;
@@ -365,7 +365,7 @@ table {
 	text-decoration: none;
 	border-radius: 22px;
 	
-	background-image: url(images/background_QA.png);
+	background-image: url(Images/background_QA.png);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	width: 1250px;
